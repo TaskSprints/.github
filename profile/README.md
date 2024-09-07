@@ -22,7 +22,9 @@
     > Backend, Frontend, Project Leader
   * **na0th**
     > Backend, Project Participant
-  * **fsm12**
+  * **world-dv**
+    > Backend, Project Participant
+  * **wonjjang44**
     > Backend, Project Participant
   * **yachimiya**
     > Backend, Project Participant
